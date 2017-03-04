@@ -4,9 +4,7 @@
   "description": "",
   "main": "",
   "scripts": {
-    "start": "node src/server.js",
-    "dev": "browser-sync start --server 'public' --files 'public/**/*.css, public/**/*.js, public/**/*.html' --no-notify",
-    "dev-js": "nodemon src/server.js",
+    "dev": "browser-sync start --server --files './**/*.css, ./**/*.js, ./**/*.html' --no-notify",
     "test": "jest --coverage",
     "test:watch": "npm run test -- --watch"
   },

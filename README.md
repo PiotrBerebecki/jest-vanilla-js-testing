@@ -1,19 +1,4 @@
-# Vanilla JavaScript App Boilerplate
-
-App demonstrating ...
-
-Live version: https://REPO.herokuapp.com
-
-<img src="./src/graphics/screencast.gif" width="275px" height="auto">
-
-## Tech stack
-* Node
-* Express
-* Heroku
-* Browsersync
-* Vanilla JavaScript
-* ES6
-* Flexbox
+# Jest Testing for Vanilla JavaScript Apps
 
 ## Getting started
 
